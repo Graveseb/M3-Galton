@@ -1,5 +1,26 @@
 # M3-Galton
 Tarea de Ucamp
+
+Este Programa me dio un reto mas grande personalmente
+Tuve muchas dificultades con tan solo aprender y entender que necesitaba hacer ya que los demos 
+incluyen “numpy” y “matplotlib” y por alguna razón yo no los podía instalar desde la terminal incluso 
+estuve investigando otros métodos para su instalación, topandome con anaconda pero tampoco me generó resultados, 
+llegó a cierto punto donde borre VS y lo volvi a instalar, modifique los “environments” y aun asi no me dejo, 
+Al final lo logré al instalar otra función cuyo nombre no me acuerdo bien e instalando numpy con la función
+especial en la terminal, pero terminando aun me topaba con el reto de entender que me pedía la tarea,
+para empezar no tenía bien en claro la simulación de galton ya que la imagen de abajo no se parecía a lo que había
+entendido pero asumi que solo era un ejemplo de que tipo de imagen se quería obtener como resultado ya que los ejemplos
+dados mostraban cosas distintas, por otra parte no entendi muy bien los ejemplos dados, particularmente con la función
+normal incluso llegó a cierto punto donde cambié mi codigo original porque creí que los estaba usando  pero eso me llevó a 
+aprender como mejorar mi código hasta lograr algo de lo que me siento mas orgulloso, mi ultimo y unico pendiente 
+es si el 0 cuenta como factor ya que la tarea pide 12 pero asumiendo que la imagen de referencia lo tenia y se reprentaba mejor
+entre mas barras, agregue el cero y movi la grafica para representar -6 a 6 para ahorrarme el lio 
+
+
+
+
+anexo el codigo aparte por si las dudas
+
 #SEBASTIAN_GARCIA_proyectoM3.py
 import numpy as np
 import matplotlib.pyplot as plt
